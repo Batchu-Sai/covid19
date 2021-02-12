@@ -1,0 +1,50 @@
+B.1.1.7	2	594	47	 NONE
+B.1.1.7	1	595	23	 NONE
+B.1.351	1	596	32	 hypertension
+ B.1.351	1	597	37	cancer
+ P.1	2	495	28	 type 2 Diabetes
+ P.1	2	454	22	sickle cell
+ B.1.351	3	405	47	down syndrome 
+P.1	4	382	42	 type 2 Diabetes
+P.1.	4	395	20	HIV
+P.1	1	305	61	HIV
+B.1.351	2	594	20	 NONE
+ P.1	2	454	47	 NONE
+ B.1.351	2	403	55	 hypertension
+ B.1.351	2	495	23	 type 2 Diabetes
+ P.1	1	495	62	 type 2 Diabetes
+ P.1	2	454	25	 type 2 Diabetes
+ B.1.351	1	405	35	obesity
+B.1.1.7	1	382	56	obesity
+B.1.1.7	1	395	33	 type 2 Diabetes
+B.1.1.7	4	305	28	pregnant
+B.1.351	2	594	58	 NONE
+ P.1	2	454	55	 NONE
+ B.1.351	2	403	19	 hypertension
+ B.1.351	2	495	44	 type 2 Diabetes
+ P.1	1	495	64	obesity
+ P.1	2	454	28	CAD
+ B.1.351	3	405	65	COPD
+B.1.1.7	4	382	50	 type 2 Diabetes
+B.1.1.7	4	395	22	 type 1 Diabetes
+B.1.1.7	4	305	46	type 2 Diabetes
+B.1.351	2	594	57	 NONE
+ P.1	2	454	28	 NONE
+ B.1.351	1	403	38	 hypertension
+ B.1.351	1	495	43	 type 2 Diabetes
+ P.1	1	495	36	 type 2 Diabetes
+ P.1	2	454	65	sickle cell
+ B.1.351	3	405	59	smoking
+B.1.1.7	4	382	41	smoking
+B.1.1.7	4	395	44	cancer
+B.1.1.7	4	305	31	cancer
+B.1.351	2	594	41	 NONE
+ P.1	2	454	27	 NONE
+ B.1.351	2	403	24	 hypertension
+ B.1.351	2	495	64	NONE
+ P.1	1	495	44	 type 2 Diabetes
+ P.1	2	454	55	NONE
+ B.1.351	3	405	57	 type 2 Diabetes
+B.1.1.7	4	382	45	CAD
+B.1.1.7	4	599	40	asthma
+B.1.1.7	1	598	53	COPD
